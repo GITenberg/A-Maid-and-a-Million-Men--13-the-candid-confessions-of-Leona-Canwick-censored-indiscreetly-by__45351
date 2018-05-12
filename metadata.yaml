@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '43236'
     url: http://www.gutenberg.org/2009/agents/43236
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45351#A-Maid-and-a-Million-Men--13-the-candid-confessions-of-Leona-Canwick-censored-indiscreetly-by_
 gutenberg_issued: '2014-04-08'
 gutenberg_type: Text
 identifiers:
